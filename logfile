@@ -1,0 +1,40 @@
+2018-09-17 15:00:17.469 WAT [5470] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2018-09-17 15:00:17.470 WAT [5470] LOG:  listening on IPv6 address "::1", port 5432
+2018-09-17 15:00:17.471 WAT [5470] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2018-09-17 15:00:17.525 WAT [5471] LOG:  database system was shut down at 2018-09-13 21:47:19 WAT
+2018-09-17 15:00:17.547 WAT [5470] LOG:  database system is ready to accept connections
+2018-09-17 15:00:29.659 WAT [5517] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:29.659 WAT [5513] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:29.659 WAT [5518] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:29.659 WAT [5514] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:29.659 WAT [5515] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:29.659 WAT [5512] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:29.660 WAT [5511] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:29.660 WAT [5520] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:29.659 WAT [5516] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:29.667 WAT [5519] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:56.496 WAT [5538] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:56.496 WAT [5541] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:56.497 WAT [5543] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:56.498 WAT [5539] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:56.499 WAT [5534] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:56.499 WAT [5535] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:56.499 WAT [5537] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:56.499 WAT [5540] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:56.501 WAT [5536] FATAL:  role "postgres" does not exist
+2018-09-17 15:00:56.505 WAT [5542] FATAL:  role "postgres" does not exist
+2018-09-17 15:01:40.220 WAT [5619] ERROR:  database "rpsgameelx_dev" already exists
+2018-09-17 15:01:40.220 WAT [5619] STATEMENT:  CREATE DATABASE "rpsgameelx_dev" ENCODING 'UTF8'
+2018-09-17 15:02:08.795 WAT [5645] ERROR:  database "rpsgameelx_dev" already exists
+2018-09-17 15:02:08.795 WAT [5645] STATEMENT:  CREATE DATABASE "rpsgameelx_dev" ENCODING 'UTF8'
+2018-09-17 15:02:15.477 WAT [5659] FATAL:  role "postgres" does not exist
+2018-09-17 15:02:15.477 WAT [5662] FATAL:  role "postgres" does not exist
+2018-09-17 15:02:15.478 WAT [5661] FATAL:  role "postgres" does not exist
+2018-09-17 15:02:15.477 WAT [5656] FATAL:  role "postgres" does not exist
+2018-09-17 15:02:15.479 WAT [5664] FATAL:  role "postgres" does not exist
+2018-09-17 15:02:15.479 WAT [5655] FATAL:  role "postgres" does not exist
+2018-09-17 15:02:15.480 WAT [5657] FATAL:  role "postgres" does not exist
+2018-09-17 15:02:15.480 WAT [5663] FATAL:  role "postgres" does not exist
+2018-09-17 15:02:15.480 WAT [5658] FATAL:  role "postgres" does not exist
+2018-09-17 15:02:15.481 WAT [5660] FATAL:  role "postgres" does not exist
+2018-09-17 15:27:28.962 WAT [6560] LOG:  could not receive data from client: Connection reset by peer
